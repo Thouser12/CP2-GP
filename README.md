@@ -1,2 +1,2 @@
-# Branch main
-Arquivo do checkpoint presente na branch "develop".
+# Branch develop
+Arquivo do checkpoint presente na pasta "DocumentosCheckpoint".
